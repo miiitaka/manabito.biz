@@ -1,0 +1,2 @@
+# manabito.biz
+WordPress Theme
